@@ -1,0 +1,11 @@
+.env
+
+competition_gemma/
+content/
+*.safetensors
+
+test_public.csv
+submission.csv
+
+.ipynb_checkpoints/
+__pycache__/
